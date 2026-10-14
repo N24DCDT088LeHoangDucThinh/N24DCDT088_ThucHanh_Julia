@@ -1,0 +1,7 @@
+﻿DAT pha data: 12 phép kiểm tra.
+DAT pha sort: 8 phép kiểm tra.
+DAT pha search: 5 phép kiểm tra.
+DAT pha bfs: 7 phép kiểm tra.
+DAT pha dp: 12 phép kiểm tra.
+DAT pha app: 16 phép kiểm tra.
+DAT: 60 phép kiểm tra; bài sinh viên.
